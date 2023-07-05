@@ -6,7 +6,6 @@ require (
 	github.com/apache/thrift v0.13.0
 	github.com/bytedance/gopkg v0.0.0-20220817015305-b879a72dc90f
 	github.com/bytedance/mockey v1.2.0
-	github.com/choleraehyq/pid v0.0.17
 	github.com/cloudwego/fastpb v0.0.4-0.20230131074846-6fc453d58b96
 	github.com/cloudwego/frugal v0.1.6
 	github.com/cloudwego/netpoll v0.3.2
